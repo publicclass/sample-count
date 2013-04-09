@@ -1,0 +1,17 @@
+{
+  "name": "sample-count",
+  "repo": "publicclass/sample-count",
+  "description": "A counter extension for publicclass/sample.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "publicclass/sample": "*"
+  },
+  "development": {
+    "publicclass/request-animation-frame": "*"
+  },
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
